@@ -10,6 +10,7 @@ In the spirit of open source software development, jQuery always encourages comm
 2. [Core Style Guide](http://contribute.jquery.org/style-guide/js/)
 3. [Writing Code for jQuery Foundation Projects](http://contribute.jquery.org/code/)
 
+Sten test
 
 Environments in which to use jQuery
 --------------------------------------
